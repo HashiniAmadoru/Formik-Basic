@@ -46,6 +46,20 @@ function Navbar() {
                     FORM WITH COMPONENT
                   </Link>
 
+                  <Link
+                    to="/login"
+                    style={{
+                      color: "black",
+                      backgroundColor: " #0099cc",
+                      padding: "10px",
+                      borderRadius: "8px",
+                      marginLeft: "12px",
+                      textDecoration: "none",
+                    }}
+                  >
+                    LOGIN
+                  </Link>
+
                   
                 </div>
               </nav>
